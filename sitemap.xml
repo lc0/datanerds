@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://lc0.github.com/datanerds/blog/archives/</loc>
+        <loc>http://datanerds.org/blog/archives/</loc>
         <lastmod>2013-11-10T22:11:45+01:00</lastmod>
     </url>
     <url>
-        <loc>http://lc0.github.com/datanerds/</loc>
+        <loc>http://datanerds.org/</loc>
         <lastmod>2013-11-10T22:11:45+01:00</lastmod>
     </url>
 </urlset>
