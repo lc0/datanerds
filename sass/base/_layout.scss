@@ -184,6 +184,12 @@ body.sidebar-footer {
   }
 }
 
+body > header {
+  background-image: url('http://www.listofimages.com/wallpapers/2012/11/mountains-germany-munich-frauenkirche-town-world-720x1280.jpg') !important;
+  background-position-y: 564px !important;
+  height: 200px;
+}
+
 @if $indented-lists == false {
   @media only screen and (min-width: 768px) {
     ul, ol { margin-left: 0; }
