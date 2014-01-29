@@ -4,7 +4,6 @@ title: "Data nerds: Intro"
 date: 2014-01-18 23:46
 comments: true
 categories: [community, data science]
-published: false
 ---
 
 {% img center /images/datasci_skills_mosaic.png %}

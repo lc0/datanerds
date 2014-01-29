@@ -1,7 +1,7 @@
 {% if site.twitter_user %}
 <section>
   <h1>Latest Tweets</h1>
-  <a class="twitter-timeline" href="https://twitter.com/{{site.twitter_user}}" data-widget-id="366606430293356544">Tweets by @{{site.twitter_user}}</a>
+  <a class="twitter-timeline" href="https://twitter.com/{{site.twitter_user}}" data-widget-id="{{site.twitter_widget}}">Tweets by @{{site.twitter_user}}</a>
   <script>$.domReady(function(){
     !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
     });
