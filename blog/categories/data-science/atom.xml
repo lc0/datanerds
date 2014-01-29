@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Data nerds around the globe]]></title>
-  <link href="http://datanerds.org/atom.xml" rel="self"/>
+  <title><![CDATA[Category: data science | Data nerds around the globe]]></title>
+  <link href="http://datanerds.org/blog/categories/data-science/atom.xml" rel="self"/>
   <link href="http://datanerds.org/"/>
   <updated>2014-01-29T23:49:46+01:00</updated>
   <id>http://datanerds.org/</id>
@@ -18,7 +18,7 @@
     <link href="http://datanerds.org/blog/2014/01/18/data-nerds-intro/"/>
     <updated>2014-01-18T23:46:00+01:00</updated>
     <id>http://datanerds.org/blog/2014/01/18/data-nerds-intro</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://datanerds.org/images/datasci_skills_mosaic.png" /></p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/datasci_skills_mosaic.png"></p>
 
 <p>So community, like one smart guy said recently: &ldquo;If you want to use some nice technology, use it now&rdquo;.
 If you like something, you need actually to start pushing it forward. I do like data science, machine learning and
